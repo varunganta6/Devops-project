@@ -121,10 +121,5 @@ You can check in Docker-hub as well nirmalnaveen/supermario
 
 Don’t forget to Stop or Delete all clusters and services of AWS otherwise this will cost you without knowing you.
 
-## Author
-
-- [@Nirmal Naveen](https://www.nirmalnaveen.com/)
-
-![Logo](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlPjhPV6D68kBoBq82reUr6ndqcI_n9YPSQ9WA3sqT_RAXpDVcujzTO1MmWrcmcGYeyA&usqp=CAU)
 
 
